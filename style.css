@@ -1,0 +1,33 @@
+
+body{
+  margin-top: 100px;
+  display: grid;
+  justify-content: center;
+  background-color: #bebdbd;
+}
+.inside-body{
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 5%;
+  border: double;
+  border-width: 5px;
+  font-family: 'Neucha', cursive;
+  box-shadow: 25px 25px grey;
+}
+.hidden{
+  display: none;
+}
+h1{
+  display: grid;
+  justify-content: center;
+  font-family: 'Audiowide', cursive;
+}
+button{
+margin: 10px 0 10px 152px;
+padding: 5px;
+border-radius: 5px;
+cursor: pointer;
+}
+.total{
+  color: crimson;
+}
