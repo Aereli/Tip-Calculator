@@ -1,0 +1,12 @@
+{
+  "name": "Tip_Calculator",
+  "version": "1.0.0",
+  "description": "Find Tip",
+  "main": "index.js",
+  "author": "MIT",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
